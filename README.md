@@ -4,6 +4,6 @@
 <hr>
  <p>Мои работы:</p>
   <ul>
-    <li><a href='https://vinordvick.github.io/Ticket_to_China/index.html'</a>Ticket to China</li>
+    <li><a href='https://vinordvick.github.io/Ticket_to_China/'</a>Ticket to China</li>
     <li><a href='https://vinordvick.github.io/Bill_Preston_-resume-/'</a>Bill Preston</li>
    </ul>
